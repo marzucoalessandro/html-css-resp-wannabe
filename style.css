@@ -94,11 +94,6 @@ img {
        float: none;
      }
 
-     #lezioni .row img {
-       margin-right: auto;
-       margin-left: auto;
-     }
-
      /* BLOCCO STEPS */
      #steps .row>.left,
      #steps .row>.central,
@@ -118,7 +113,7 @@ img {
      }
 
      #why .row img {
-       
+
        padding: 10px;
      }
 

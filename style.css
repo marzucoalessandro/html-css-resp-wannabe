@@ -90,9 +90,21 @@ img {
 
      #lezioni .row img {
        /* per centrare orizzontalmente */
-      
+
        margin-right: auto;
        margin-left: auto;
+     }
+
+     /* BLOCCO STEPS */
+     #steps .row>.left,
+     #steps .row>.central,
+     #steps .row>.right {
+       float: none;
+       width: 100%;
+     }
+
+     .container.grey {
+       background-color: white;
      }
 
 

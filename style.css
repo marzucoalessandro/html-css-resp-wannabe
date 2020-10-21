@@ -80,29 +80,26 @@ img {
      .row {
        margin-top: 20px;
        width: 420px;
-
-
      }
 
      #lezioni .row>.left,
-     #lezioni .row>.right, {
+     #lezioni .row>.right {
        width: 100%;
-       background-color: lightgrey;
-
+       float: none;
      }
 
      #lezioni .row img {
        /* per centrare orizzontalmente */
+      
        margin-right: auto;
        margin-left: auto;
      }
 
-     #steps .row>.left,
-     #steps .row>.central,
-     #steps .row>.right {
-       float: none;
-       width: 100%;
-     }
+
+
+
+
+
 
 
 
